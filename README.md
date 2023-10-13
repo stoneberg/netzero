@@ -1,0 +1,2 @@
+# netzero
+Netzero Nextjs Frontend
